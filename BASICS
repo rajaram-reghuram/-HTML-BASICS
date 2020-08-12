@@ -1,0 +1,83 @@
+<html>     *****(THE ENTIRE PGMS STARTS  WITH THIS)  *****   
+
+
+
+<title>                                                   </title>     *****(TITLE OF THE WEBPAGE)
+  
+<head>                                         
+
+*****(INFORMATION OF ALL DATAS IN THE PAGE LIKE LANGUAGE AND OTHER STUFFS)*****
+
+</head> 
+
+                                  
+
+<h1>          FIRST HEADING OF WEB PAGE                          </h1>
+
+
+<h2>          SECOND HEADING OF WEBPAGE                           </h2>
+.
+.
+.
+.
+.
+.
+.
+
+
+
+
+<body>       *****(STARTING OF A BODY)
+
+<p>     PARAGRAPH                 </p>
+
+<p>     PARAGRAPH                 </p>
+.
+.
+.
+.
+.
+
+<a href="NAME OF FILE.html">     **** PAGE TO WHICH IT HAS TO BE NAVIGATED                   </a>
+
+&nbsp; **** (for creating space between links we use &nbsp)
+.
+&nbsp; ****(for creating space between links we use &nbsp)
+.
+&nbsp; *****(for creating space between links we use &nbsp)
+.
+.
+.
+&nbsp;  ****(for creating space between links we use &nbsp)
+
+<a href="HOME FILE.html">        **** TO GO BACK TO HOMEPAGE                                 </a>     
+
+
+
+<img src="imagename.filetype"width=% />  ***(THIS IS USED TO INSERT AN IMAGE FROM YOUR SYSTEM. HERE ITSELF WE END THE TAG AT LAST AND DECIDE THE WIDTH OF THE IMAGE IN THE IMG SRC ITSELF)****
+
+
+**(TO LIST ITEMS WE USE UL (unordered list) IN WHICH LI (list)  TO LIST ALL THE ITEMS )**
+
+<ul>
+	<li>        </li>
+	<li>        </li>
+    .
+    .
+    .
+    .
+
+
+</ul>
+
+
+
+
+
+
+
+
+</body>  ******(ENDING OF THE BODY)
+
+
+</html>    **** (THE ENTIRE PGMS ENDS WITH THIS)
